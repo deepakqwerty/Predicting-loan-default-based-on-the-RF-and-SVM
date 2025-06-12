@@ -1,4 +1,4 @@
- Loan Default Prediction using Random Forest.
+Loan Default Prediction using Random Forest.
 
  • Conducted data pre-processing and exploratory analysis to extract key insights.
  
